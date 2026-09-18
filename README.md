@@ -5,7 +5,8 @@ A basic static HTML Page containing general CV/Resume information.
 ![Project Screenshot](screenshot.png)
 
 ## Live Demo
-![Project URL](https://roadmap.sh/projects/single-page-cv)
+[Project URL](https://roadmap.sh/projects/single-page-cv)
+
 Visit the live project here: [Live link](https://rohanssutar.github.io/Single-Page-CV/)
 
 ## File Structure
